@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" width="350"/>
+    <img src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
