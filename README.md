@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/8d/dd/60/8ddd60628d3d1851e04aa32d186ca897.gif" width="400"/>
+    <img src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -9,10 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=keajung&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
-<!--
-**keajung/keajung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Tools 👋
 
-Here are some ideas to get you started:
+<!--
+<div >
+to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</div>
+
 -->
