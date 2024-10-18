@@ -1,4 +1,13 @@
 ## Hi there 👋
+<br>
+<div align="center">
+    <img src="https://i.pinimg.com/originals/8d/dd/60/8ddd60628d3d1851e04aa32d186ca897.gif" width="400"/>
+</div>
+
+<div id="badges" align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=keajung&style=flat-square&color=blue" alt="account counter"/>
+</div>
 
 <!--
 **keajung/keajung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
